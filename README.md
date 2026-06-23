@@ -5,7 +5,7 @@
 
 <div align="center">
   <img width="260" height="260" alt="Kali-dragon-icon <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/267a4b86-a263-420e-a86d-f5c8b664fe56" />
-☮︎
+
 
   <h1 align="center">Cybersecurity Project Cyberkk 🐉</h1>
   <p align="center">Think Before You Click</p>
