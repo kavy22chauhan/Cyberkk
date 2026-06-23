@@ -1,6 +1,7 @@
 # Cyberkk ☮︎
-CyberKK is a phishing URL detection platform that analyzes website links for suspicious indicators and calculates a risk score to help users avoid online scams.
-
+<br>➤CyberKK is a website used for phishing URL detection platform that analyzes website links for suspicious indicators and calculates a risk score to help users avoid online scams.
+<br>
+➤Todays world most common cyber attck is phishing many people organization give there information on phishing pages and get scammed by attckers to protect from phishing attacks i designed a website that helps you to check weather the URL(link) is phishing link or genuine so you can #THINKBEFORECLICK the url.
 <br>
 
 ➤➤➤ step by step use of website here is URL:-https://secure-asset-hub--hackeranonymo12.replit.app/
