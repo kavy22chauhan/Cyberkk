@@ -12,15 +12,21 @@ step by step use of website  URL:-https://secure-asset-hub--hackeranonymo12.repl
 <br>
 <br>
 
+This is a fist look of the website.
+also, Here is the scanner to check malicious URL's.
+
 ![Home Page](ss1.png)
 
 <br>
 <br>
+In this page is history of Different searches.
+
 
 ![Scanner](ss2.png)
 
 <br>
 <br>
+This page represents global Telemetry and Statistics
 
 ![Results](ss3.png)
 
