@@ -3,6 +3,13 @@
 <br>
 <br>
 
+<div align="center">
+  <img width="260" height="260" alt="Kali-dragon-icon svg" src="https://github.com/user-attachments/assets/d911b71f-6ad9-45b7-9513-237f83377023" alt="Kali Linux Icon"/>
+  <h1 align="center">Cybersecurity Projects 🐉</h1>
+  <p align="center">70 Cybersecurity Projects, Certification Roadmaps & Resources</p>
+</div>
+<br>
+
 ➤Todays world most common cyber attack is phishing attack many people or organization give there information on phishing pages and get scammed by attackers to protect from phishing attacks i designed a website that helps you to check weather the URL(link) is phishing link or genuine so you can #THINKBEFORECLICK the url.
 <br>
 
