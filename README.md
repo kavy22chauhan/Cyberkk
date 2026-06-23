@@ -14,8 +14,14 @@ step by step use of website  URL:-https://secure-asset-hub--hackeranonymo12.repl
 
 ![Home Page](ss1.png)
 
+<br>
+<br>
 ![Scanner](ss2.png)
 
+<br>
+<br>
 ![Results](ss3.png)
 
+<br>
+<br>
 ![Results](ss4.png)
