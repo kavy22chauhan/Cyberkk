@@ -4,9 +4,10 @@
 <br>
 
 <div align="center">
-  <img width="260" height="260" alt="Kali-dragon-icon svg" src="https://github.com/user-attachments/assets/d911b71f-6ad9-45b7-9513-237f83377023" alt="Kali Linux Icon"/>
-  <h1 align="center">Cybersecurity Projects 🐉</h1>
-  <p align="center">70 Cybersecurity Projects, Certification Roadmaps & Resources</p>
+  <img width="260" height="260" alt="Kali-dragon-icon <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/e5eadf7e-c388-4c9e-91f4-afdc034350de" />
+
+  <h1 align="center">Cybersecurity Project 🐉</h1>
+  <p align="center">Cybersecurity Project Cyberkk</p>
 </div>
 <br>
 
