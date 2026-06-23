@@ -9,3 +9,10 @@ step by step use of website  URL:-https://secure-asset-hub--hackeranonymo12.repl
 5. get your result.
    
 
+![Home Page](ss1.png)
+
+![Scanner](ss2.png)
+
+![Results](ss3.png)
+
+![Results](ss4.png)
