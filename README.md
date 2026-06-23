@@ -34,7 +34,10 @@ This page represents global Telemetry and Statistics
 
 <br>
 <br>
-This is my profile you can contact or connect with me for cybersecurity,networking,linux,cyberforensics,kali linux,arch linux,parrot os related stuff . <br>🜲<br>
+This is my profile you can contact or connect with me for cybersecurity,networking,linux,cyberforensics,kali linux,arch linux,parrot os related stuff .
 <br>
 
 ![Results](ss4.png)
+
+
+🜲
