@@ -3,7 +3,7 @@ CyberKK is a phishing URL detection platform that analyzes website links for sus
 
 <br>
 
-step by step use of website  URL:-https://secure-asset-hub--hackeranonymo12.replit.app/
+➤➤➤ step by step use of website  URL:-https://secure-asset-hub--hackeranonymo12.replit.app/
 1. open any browser.
 2. paste the link.
 3. go for scann url now.
@@ -12,7 +12,7 @@ step by step use of website  URL:-https://secure-asset-hub--hackeranonymo12.repl
 <br>
 <br>
 
-This is a fist look of the website.
+➤This is a fist look of the website.
 also, Here is the scanner to check malicious URL's.
 <br>
 
@@ -20,21 +20,21 @@ also, Here is the scanner to check malicious URL's.
 
 <br>
 <br>
-In this page is history of Different searches.
+➤In this page is history of Different searches.
 <br>
 
 ![Scanner](ss2.png)
 
 <br>
 <br>
-This page represents global Telemetry and Statistics
+➤This page represents global Telemetry and Statistics
 <br>
 
 ![Results](ss3.png)
 
 <br>
 <br>
-This is my profile you can contact or connect with me for cybersecurity,networking,linux,cyberforensics,kali linux,arch linux,parrot os related stuff .
+➤This is my profile you can contact or connect with me for cybersecurity,networking,linux,cyberforensics,kali linux,arch linux,parrot os related stuff .
 <br>
 
 ![Results](ss4.png)
